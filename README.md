@@ -14,6 +14,11 @@
 ## 始め方
 
 1. このリポジトリをクローンまたはダウンロードします。
+
+```
+$ git clone https://github.com/otomatty/solid-app-template.git
+```
+
 2. 依存関係をインストールします：
 
 ```bash
@@ -22,7 +27,9 @@ $ npm install # or pnpm install or yarn install
 
 3. 開発サーバーを起動します：
 
-### `npm run dev`
+```bash
+$ npm run dev
+```
 
 4. ブラウザで [http://localhost:5173](http://localhost:5173) を開きます。
 
